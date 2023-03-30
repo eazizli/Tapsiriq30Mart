@@ -1,0 +1,15 @@
+C:\Users\ClassTime\Downloads\TypeC\bin\Debug\net6.0\TypeC.exe
+C:\Users\ClassTime\Downloads\TypeC\bin\Debug\net6.0\TypeC.deps.json
+C:\Users\ClassTime\Downloads\TypeC\bin\Debug\net6.0\TypeC.runtimeconfig.json
+C:\Users\ClassTime\Downloads\TypeC\bin\Debug\net6.0\TypeC.dll
+C:\Users\ClassTime\Downloads\TypeC\bin\Debug\net6.0\TypeC.pdb
+C:\Users\ClassTime\Downloads\TypeC\obj\Debug\net6.0\TypeC.csproj.AssemblyReference.cache
+C:\Users\ClassTime\Downloads\TypeC\obj\Debug\net6.0\TypeC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\Downloads\TypeC\obj\Debug\net6.0\TypeC.AssemblyInfoInputs.cache
+C:\Users\ClassTime\Downloads\TypeC\obj\Debug\net6.0\TypeC.AssemblyInfo.cs
+C:\Users\ClassTime\Downloads\TypeC\obj\Debug\net6.0\TypeC.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\Downloads\TypeC\obj\Debug\net6.0\TypeC.dll
+C:\Users\ClassTime\Downloads\TypeC\obj\Debug\net6.0\refint\TypeC.dll
+C:\Users\ClassTime\Downloads\TypeC\obj\Debug\net6.0\TypeC.pdb
+C:\Users\ClassTime\Downloads\TypeC\obj\Debug\net6.0\TypeC.genruntimeconfig.cache
+C:\Users\ClassTime\Downloads\TypeC\obj\Debug\net6.0\ref\TypeC.dll
